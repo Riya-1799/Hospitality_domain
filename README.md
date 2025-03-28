@@ -41,7 +41,8 @@ This project is designed for **hotel revenue managers, analysts, and data enthus
 
 ## 📧 Contact
 
-For any questions or feedback, reach out via [your email] or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+Riya Arvadia
+patelriyaa1708@gmail.com
 
 ---
 

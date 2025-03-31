@@ -24,7 +24,7 @@ This project is designed for **hotel revenue managers, analysts, and data enthus
 
 ## 📷 Screenshots
 
-*(Add screenshots of your Power BI dashboard here for better visual representation.)*
+https://github.com/Riya-1799/Hospitality_domain/blob/main/Images/Dashboard.png 
 
 
 ## 🛠 Technologies Used

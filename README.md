@@ -24,7 +24,10 @@ This project is designed for **hotel revenue managers, analysts, and data enthus
 
 ## 📷 Screenshots
 
-https://github.com/Riya-1799/Hospitality_domain/blob/main/Images/Dashboard.png 
+
+
+![Dashboard](https://github.com/Riya-1799/Hospitality_domain/blob/main/Images/Dashboard.png)
+
 
 
 ## 🛠 Technologies Used

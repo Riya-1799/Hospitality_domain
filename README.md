@@ -45,7 +45,7 @@ This project is designed for **hotel revenue managers, analysts, and data enthus
 ## 📧 Contact
 
 Riya Arvadia
-patelriyaa1708@gmail.com
+patelriyaa170899@gmail.com
 
 ---
 
